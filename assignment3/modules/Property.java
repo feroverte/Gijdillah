@@ -1,4 +1,4 @@
-package modules;
+package assignment3.modules;
 
 public class Property {
     private Long id; // Unique identifier for the property
