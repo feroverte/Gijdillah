@@ -1,4 +1,4 @@
-package modules;
+package assignment3.modules;
 
 import services.MailService;
 
