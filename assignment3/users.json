@@ -1,0 +1,1 @@
+[{"id":1,"name":"Admin User","email":"admin@example.com","role":"admin"},{"id":2,"name":"Seller User","email":"seller@example.com","role":"seller"},{"id":3,"name":"Buyer User","email":"buyer@example.com","role":"buyer"},{"id":4,"name":"Agent User","email":"agent@example.com","role":"agent"}]
